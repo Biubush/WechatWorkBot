@@ -1,0 +1,14 @@
+blinker
+certifi
+charset-normalizer
+click
+colorama
+Flask
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+pycryptodome
+requests
+urllib3
+Werkzeug

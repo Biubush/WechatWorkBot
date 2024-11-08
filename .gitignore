@@ -1,0 +1,7 @@
+**/__pychache__/
+**/*.pyc
+.vscode/
+.idea/
+.venv/
+.conda/
+test/
